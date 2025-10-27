@@ -1,0 +1,43 @@
+{
+  "total_records": 96,
+  "crops": [
+    "Rice",
+    "Wheat",
+    "Soybean"
+  ],
+  "states": [
+    "Punjab",
+    "Maharashtra"
+  ],
+  "years": {
+    "min": 2020,
+    "max": 2023
+  },
+  "yield_range": {
+    "min": 1.09,
+    "max": 6.81
+  },
+  "features": {
+    "weather": [
+      "temperature_avg",
+      "precipitation",
+      "humidity"
+    ],
+    "soil": [
+      "soil_ph",
+      "nitrogen",
+      "phosphorus",
+      "potassium"
+    ],
+    "satellite": [
+      "ndvi",
+      "evi"
+    ]
+  },
+  "data_sources": [
+    "comprehensive_crop_yield_dataset.csv",
+    "monthly_yield_data.csv",
+    "price_data.csv"
+  ],
+  "processing_date": "2025-10-26 22:32:33"
+}

@@ -1,0 +1,2402 @@
+[
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 4.92,
+    "weather": {
+      "temperature_avg": 27.69,
+      "temperature_min": 22.69,
+      "temperature_max": 32.69,
+      "precipitation": 912.72,
+      "humidity": 47.48,
+      "wind_speed": 4.11,
+      "solar_radiation": 22.76
+    },
+    "soil": {
+      "ph": 6.6,
+      "nitrogen": 116.0,
+      "phosphorus": 52.0,
+      "potassium": 211.0
+    },
+    "satellite": {
+      "ndvi": 0.584,
+      "evi": 0.467
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 3.67,
+    "weather": {
+      "temperature_avg": 24.86,
+      "temperature_min": 19.86,
+      "temperature_max": 29.86,
+      "precipitation": 1087.17,
+      "humidity": 49.92,
+      "wind_speed": 3.03,
+      "solar_radiation": 23.07
+    },
+    "soil": {
+      "ph": 6.8,
+      "nitrogen": 84.0,
+      "phosphorus": 56.0,
+      "potassium": 169.0
+    },
+    "satellite": {
+      "ndvi": 0.714,
+      "evi": 0.571
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 1.99,
+    "weather": {
+      "temperature_avg": 26.33,
+      "temperature_min": 21.33,
+      "temperature_max": 31.33,
+      "precipitation": 1007.65,
+      "humidity": 67.61,
+      "wind_speed": 4.83,
+      "solar_radiation": 23.88
+    },
+    "soil": {
+      "ph": 6.4,
+      "nitrogen": 117.0,
+      "phosphorus": 43.0,
+      "potassium": 148.0
+    },
+    "satellite": {
+      "ndvi": 0.359,
+      "evi": 0.287
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 2.7,
+    "weather": {
+      "temperature_avg": 31.25,
+      "temperature_min": 26.25,
+      "temperature_max": 36.25,
+      "precipitation": 972.88,
+      "humidity": 62.33,
+      "wind_speed": 2.47,
+      "solar_radiation": 16.58
+    },
+    "soil": {
+      "ph": 5.8,
+      "nitrogen": 122.0,
+      "phosphorus": 38.0,
+      "potassium": 152.0
+    },
+    "satellite": {
+      "ndvi": 0.517,
+      "evi": 0.414
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 3.23,
+    "weather": {
+      "temperature_avg": 23.11,
+      "temperature_min": 18.11,
+      "temperature_max": 28.11,
+      "precipitation": 887.72,
+      "humidity": 40.22,
+      "wind_speed": 2.31,
+      "solar_radiation": 22.0
+    },
+    "soil": {
+      "ph": 6.6,
+      "nitrogen": 109.0,
+      "phosphorus": 70.0,
+      "potassium": 198.0
+    },
+    "satellite": {
+      "ndvi": 0.578,
+      "evi": 0.462
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 1.55,
+    "weather": {
+      "temperature_avg": 21.43,
+      "temperature_min": 16.43,
+      "temperature_max": 26.43,
+      "precipitation": 363.99,
+      "humidity": 71.98,
+      "wind_speed": 1.55,
+      "solar_radiation": 20.34
+    },
+    "soil": {
+      "ph": 7.2,
+      "nitrogen": 88.0,
+      "phosphorus": 36.0,
+      "potassium": 170.0
+    },
+    "satellite": {
+      "ndvi": 0.403,
+      "evi": 0.322
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 4.74,
+    "weather": {
+      "temperature_avg": 22.38,
+      "temperature_min": 17.38,
+      "temperature_max": 27.38,
+      "precipitation": 668.85,
+      "humidity": 57.2,
+      "wind_speed": 4.1,
+      "solar_radiation": 24.96
+    },
+    "soil": {
+      "ph": 7.0,
+      "nitrogen": 158.0,
+      "phosphorus": 41.0,
+      "potassium": 165.0
+    },
+    "satellite": {
+      "ndvi": 0.69,
+      "evi": 0.552
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 1.87,
+    "weather": {
+      "temperature_avg": 19.3,
+      "temperature_min": 14.3,
+      "temperature_max": 24.3,
+      "precipitation": 1487.01,
+      "humidity": 84.25,
+      "wind_speed": 1.99,
+      "solar_radiation": 21.58
+    },
+    "soil": {
+      "ph": 6.5,
+      "nitrogen": 84.0,
+      "phosphorus": 36.0,
+      "potassium": 145.0
+    },
+    "satellite": {
+      "ndvi": 0.541,
+      "evi": 0.433
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 1.87,
+    "weather": {
+      "temperature_avg": 19.73,
+      "temperature_min": 14.73,
+      "temperature_max": 24.73,
+      "precipitation": 804.5,
+      "humidity": 68.28,
+      "wind_speed": 2.19,
+      "solar_radiation": 23.54
+    },
+    "soil": {
+      "ph": 5.7,
+      "nitrogen": 140.0,
+      "phosphorus": 35.0,
+      "potassium": 136.0
+    },
+    "satellite": {
+      "ndvi": 0.473,
+      "evi": 0.379
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 4.44,
+    "weather": {
+      "temperature_avg": 34.44,
+      "temperature_min": 29.44,
+      "temperature_max": 39.44,
+      "precipitation": 1080.28,
+      "humidity": 83.73,
+      "wind_speed": 4.47,
+      "solar_radiation": 20.3
+    },
+    "soil": {
+      "ph": 5.5,
+      "nitrogen": 86.0,
+      "phosphorus": 70.0,
+      "potassium": 202.0
+    },
+    "satellite": {
+      "ndvi": 0.836,
+      "evi": 0.669
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 5.28,
+    "weather": {
+      "temperature_avg": 24.81,
+      "temperature_min": 19.81,
+      "temperature_max": 29.81,
+      "precipitation": 657.64,
+      "humidity": 64.13,
+      "wind_speed": 1.54,
+      "solar_radiation": 17.06
+    },
+    "soil": {
+      "ph": 6.3,
+      "nitrogen": 89.0,
+      "phosphorus": 61.0,
+      "potassium": 135.0
+    },
+    "satellite": {
+      "ndvi": 0.836,
+      "evi": 0.669
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 1.58,
+    "weather": {
+      "temperature_avg": 27.98,
+      "temperature_min": 22.98,
+      "temperature_max": 32.98,
+      "precipitation": 1445.62,
+      "humidity": 70.84,
+      "wind_speed": 4.21,
+      "solar_radiation": 18.98
+    },
+    "soil": {
+      "ph": 5.7,
+      "nitrogen": 135.0,
+      "phosphorus": 46.0,
+      "potassium": 157.0
+    },
+    "satellite": {
+      "ndvi": 0.351,
+      "evi": 0.281
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 4.06,
+    "weather": {
+      "temperature_avg": 15.27,
+      "temperature_min": 10.27,
+      "temperature_max": 20.27,
+      "precipitation": 1097.0,
+      "humidity": 84.59,
+      "wind_speed": 1.45,
+      "solar_radiation": 18.34
+    },
+    "soil": {
+      "ph": 7.3,
+      "nitrogen": 126.0,
+      "phosphorus": 40.0,
+      "potassium": 213.0
+    },
+    "satellite": {
+      "ndvi": 0.585,
+      "evi": 0.468
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 2.57,
+    "weather": {
+      "temperature_avg": 33.32,
+      "temperature_min": 28.32,
+      "temperature_max": 38.32,
+      "precipitation": 1231.74,
+      "humidity": 68.72,
+      "wind_speed": 4.32,
+      "solar_radiation": 15.24
+    },
+    "soil": {
+      "ph": 7.2,
+      "nitrogen": 94.0,
+      "phosphorus": 47.0,
+      "potassium": 195.0
+    },
+    "satellite": {
+      "ndvi": 0.88,
+      "evi": 0.704
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 3.81,
+    "weather": {
+      "temperature_avg": 26.38,
+      "temperature_min": 21.38,
+      "temperature_max": 31.38,
+      "precipitation": 346.78,
+      "humidity": 49.85,
+      "wind_speed": 4.8,
+      "solar_radiation": 24.03
+    },
+    "soil": {
+      "ph": 5.8,
+      "nitrogen": 149.0,
+      "phosphorus": 34.0,
+      "potassium": 183.0
+    },
+    "satellite": {
+      "ndvi": 0.863,
+      "evi": 0.69
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 4.39,
+    "weather": {
+      "temperature_avg": 18.14,
+      "temperature_min": 13.14,
+      "temperature_max": 23.14,
+      "precipitation": 424.78,
+      "humidity": 52.42,
+      "wind_speed": 3.29,
+      "solar_radiation": 21.38
+    },
+    "soil": {
+      "ph": 7.2,
+      "nitrogen": 85.0,
+      "phosphorus": 34.0,
+      "potassium": 204.0
+    },
+    "satellite": {
+      "ndvi": 0.836,
+      "evi": 0.668
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 2.33,
+    "weather": {
+      "temperature_avg": 29.12,
+      "temperature_min": 24.12,
+      "temperature_max": 34.12,
+      "precipitation": 920.37,
+      "humidity": 51.58,
+      "wind_speed": 4.94,
+      "solar_radiation": 23.38
+    },
+    "soil": {
+      "ph": 6.7,
+      "nitrogen": 86.0,
+      "phosphorus": 47.0,
+      "potassium": 192.0
+    },
+    "satellite": {
+      "ndvi": 0.442,
+      "evi": 0.353
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 2.86,
+    "weather": {
+      "temperature_avg": 24.4,
+      "temperature_min": 19.4,
+      "temperature_max": 29.4,
+      "precipitation": 1165.05,
+      "humidity": 70.99,
+      "wind_speed": 4.15,
+      "solar_radiation": 16.07
+    },
+    "soil": {
+      "ph": 6.5,
+      "nitrogen": 142.0,
+      "phosphorus": 49.0,
+      "potassium": 197.0
+    },
+    "satellite": {
+      "ndvi": 0.587,
+      "evi": 0.469
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 1.98,
+    "weather": {
+      "temperature_avg": 28.5,
+      "temperature_min": 23.5,
+      "temperature_max": 33.5,
+      "precipitation": 1338.78,
+      "humidity": 61.37,
+      "wind_speed": 2.8,
+      "solar_radiation": 19.34
+    },
+    "soil": {
+      "ph": 5.7,
+      "nitrogen": 131.0,
+      "phosphorus": 55.0,
+      "potassium": 186.0
+    },
+    "satellite": {
+      "ndvi": 0.409,
+      "evi": 0.327
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 3.79,
+    "weather": {
+      "temperature_avg": 30.67,
+      "temperature_min": 25.67,
+      "temperature_max": 35.67,
+      "precipitation": 766.0,
+      "humidity": 67.98,
+      "wind_speed": 2.31,
+      "solar_radiation": 16.22
+    },
+    "soil": {
+      "ph": 6.1,
+      "nitrogen": 154.0,
+      "phosphorus": 45.0,
+      "potassium": 129.0
+    },
+    "satellite": {
+      "ndvi": 0.811,
+      "evi": 0.649
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 2.52,
+    "weather": {
+      "temperature_avg": 17.48,
+      "temperature_min": 12.48,
+      "temperature_max": 22.48,
+      "precipitation": 741.92,
+      "humidity": 70.65,
+      "wind_speed": 2.88,
+      "solar_radiation": 17.69
+    },
+    "soil": {
+      "ph": 7.2,
+      "nitrogen": 145.0,
+      "phosphorus": 39.0,
+      "potassium": 200.0
+    },
+    "satellite": {
+      "ndvi": 0.749,
+      "evi": 0.599
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 6.81,
+    "weather": {
+      "temperature_avg": 28.24,
+      "temperature_min": 23.24,
+      "temperature_max": 33.24,
+      "precipitation": 623.41,
+      "humidity": 40.87,
+      "wind_speed": 2.5,
+      "solar_radiation": 23.54
+    },
+    "soil": {
+      "ph": 7.2,
+      "nitrogen": 82.0,
+      "phosphorus": 61.0,
+      "potassium": 174.0
+    },
+    "satellite": {
+      "ndvi": 0.837,
+      "evi": 0.669
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 2.45,
+    "weather": {
+      "temperature_avg": 15.26,
+      "temperature_min": 10.26,
+      "temperature_max": 20.26,
+      "precipitation": 1094.5,
+      "humidity": 54.27,
+      "wind_speed": 3.68,
+      "solar_radiation": 22.24
+    },
+    "soil": {
+      "ph": 5.8,
+      "nitrogen": 159.0,
+      "phosphorus": 58.0,
+      "potassium": 197.0
+    },
+    "satellite": {
+      "ndvi": 0.669,
+      "evi": 0.535
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 2.76,
+    "weather": {
+      "temperature_avg": 26.49,
+      "temperature_min": 21.49,
+      "temperature_max": 31.49,
+      "precipitation": 957.54,
+      "humidity": 53.83,
+      "wind_speed": 4.66,
+      "solar_radiation": 18.55
+    },
+    "soil": {
+      "ph": 6.9,
+      "nitrogen": 129.0,
+      "phosphorus": 53.0,
+      "potassium": 173.0
+    },
+    "satellite": {
+      "ndvi": 0.555,
+      "evi": 0.444
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 5.11,
+    "weather": {
+      "temperature_avg": 25.78,
+      "temperature_min": 20.78,
+      "temperature_max": 30.78,
+      "precipitation": 963.18,
+      "humidity": 80.02,
+      "wind_speed": 2.21,
+      "solar_radiation": 16.45
+    },
+    "soil": {
+      "ph": 5.5,
+      "nitrogen": 154.0,
+      "phosphorus": 34.0,
+      "potassium": 217.0
+    },
+    "satellite": {
+      "ndvi": 0.678,
+      "evi": 0.542
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 3.77,
+    "weather": {
+      "temperature_avg": 20.1,
+      "temperature_min": 15.1,
+      "temperature_max": 25.1,
+      "precipitation": 1122.62,
+      "humidity": 62.74,
+      "wind_speed": 3.47,
+      "solar_radiation": 17.3
+    },
+    "soil": {
+      "ph": 6.1,
+      "nitrogen": 117.0,
+      "phosphorus": 44.0,
+      "potassium": 154.0
+    },
+    "satellite": {
+      "ndvi": 0.66,
+      "evi": 0.528
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 1.28,
+    "weather": {
+      "temperature_avg": 30.51,
+      "temperature_min": 25.51,
+      "temperature_max": 35.51,
+      "precipitation": 562.03,
+      "humidity": 55.14,
+      "wind_speed": 1.2,
+      "solar_radiation": 22.58
+    },
+    "soil": {
+      "ph": 6.2,
+      "nitrogen": 127.0,
+      "phosphorus": 45.0,
+      "potassium": 153.0
+    },
+    "satellite": {
+      "ndvi": 0.356,
+      "evi": 0.285
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 2.65,
+    "weather": {
+      "temperature_avg": 20.84,
+      "temperature_min": 15.84,
+      "temperature_max": 25.84,
+      "precipitation": 387.18,
+      "humidity": 78.82,
+      "wind_speed": 1.15,
+      "solar_radiation": 15.57
+    },
+    "soil": {
+      "ph": 7.0,
+      "nitrogen": 132.0,
+      "phosphorus": 58.0,
+      "potassium": 145.0
+    },
+    "satellite": {
+      "ndvi": 0.463,
+      "evi": 0.37
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 3.26,
+    "weather": {
+      "temperature_avg": 27.4,
+      "temperature_min": 22.4,
+      "temperature_max": 32.4,
+      "precipitation": 1190.1,
+      "humidity": 83.98,
+      "wind_speed": 3.56,
+      "solar_radiation": 22.62
+    },
+    "soil": {
+      "ph": 6.0,
+      "nitrogen": 111.0,
+      "phosphorus": 65.0,
+      "potassium": 177.0
+    },
+    "satellite": {
+      "ndvi": 0.659,
+      "evi": 0.527
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 1.16,
+    "weather": {
+      "temperature_avg": 33.96,
+      "temperature_min": 28.96,
+      "temperature_max": 38.96,
+      "precipitation": 1317.68,
+      "humidity": 58.87,
+      "wind_speed": 4.11,
+      "solar_radiation": 16.28
+    },
+    "soil": {
+      "ph": 6.4,
+      "nitrogen": 105.0,
+      "phosphorus": 49.0,
+      "potassium": 180.0
+    },
+    "satellite": {
+      "ndvi": 0.369,
+      "evi": 0.296
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 5.69,
+    "weather": {
+      "temperature_avg": 31.6,
+      "temperature_min": 26.6,
+      "temperature_max": 36.6,
+      "precipitation": 837.98,
+      "humidity": 56.84,
+      "wind_speed": 2.37,
+      "solar_radiation": 22.01
+    },
+    "soil": {
+      "ph": 6.4,
+      "nitrogen": 113.0,
+      "phosphorus": 35.0,
+      "potassium": 213.0
+    },
+    "satellite": {
+      "ndvi": 0.9,
+      "evi": 0.72
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 2.01,
+    "weather": {
+      "temperature_avg": 18.24,
+      "temperature_min": 13.24,
+      "temperature_max": 23.24,
+      "precipitation": 1448.36,
+      "humidity": 57.43,
+      "wind_speed": 2.11,
+      "solar_radiation": 15.72
+    },
+    "soil": {
+      "ph": 5.7,
+      "nitrogen": 127.0,
+      "phosphorus": 67.0,
+      "potassium": 139.0
+    },
+    "satellite": {
+      "ndvi": 0.528,
+      "evi": 0.422
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 2.77,
+    "weather": {
+      "temperature_avg": 32.82,
+      "temperature_min": 27.82,
+      "temperature_max": 37.82,
+      "precipitation": 725.74,
+      "humidity": 50.14,
+      "wind_speed": 3.56,
+      "solar_radiation": 18.42
+    },
+    "soil": {
+      "ph": 6.0,
+      "nitrogen": 113.0,
+      "phosphorus": 43.0,
+      "potassium": 219.0
+    },
+    "satellite": {
+      "ndvi": 0.605,
+      "evi": 0.484
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 2.14,
+    "weather": {
+      "temperature_avg": 18.23,
+      "temperature_min": 13.23,
+      "temperature_max": 23.23,
+      "precipitation": 413.1,
+      "humidity": 48.87,
+      "wind_speed": 1.88,
+      "solar_radiation": 17.79
+    },
+    "soil": {
+      "ph": 6.2,
+      "nitrogen": 132.0,
+      "phosphorus": 39.0,
+      "potassium": 127.0
+    },
+    "satellite": {
+      "ndvi": 0.444,
+      "evi": 0.355
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 2.75,
+    "weather": {
+      "temperature_avg": 26.65,
+      "temperature_min": 21.65,
+      "temperature_max": 31.65,
+      "precipitation": 495.11,
+      "humidity": 52.53,
+      "wind_speed": 2.47,
+      "solar_radiation": 16.99
+    },
+    "soil": {
+      "ph": 7.2,
+      "nitrogen": 91.0,
+      "phosphorus": 60.0,
+      "potassium": 198.0
+    },
+    "satellite": {
+      "ndvi": 0.584,
+      "evi": 0.467
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 3.51,
+    "weather": {
+      "temperature_avg": 21.64,
+      "temperature_min": 16.64,
+      "temperature_max": 26.64,
+      "precipitation": 1296.26,
+      "humidity": 61.63,
+      "wind_speed": 4.36,
+      "solar_radiation": 17.29
+    },
+    "soil": {
+      "ph": 6.1,
+      "nitrogen": 127.0,
+      "phosphorus": 40.0,
+      "potassium": 144.0
+    },
+    "satellite": {
+      "ndvi": 0.866,
+      "evi": 0.693
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 1.3,
+    "weather": {
+      "temperature_avg": 15.65,
+      "temperature_min": 10.65,
+      "temperature_max": 20.65,
+      "precipitation": 323.08,
+      "humidity": 51.89,
+      "wind_speed": 3.37,
+      "solar_radiation": 15.06
+    },
+    "soil": {
+      "ph": 5.6,
+      "nitrogen": 92.0,
+      "phosphorus": 32.0,
+      "potassium": 138.0
+    },
+    "satellite": {
+      "ndvi": 0.315,
+      "evi": 0.252
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 2.3,
+    "weather": {
+      "temperature_avg": 18.07,
+      "temperature_min": 13.07,
+      "temperature_max": 23.07,
+      "precipitation": 781.42,
+      "humidity": 62.11,
+      "wind_speed": 2.21,
+      "solar_radiation": 24.76
+    },
+    "soil": {
+      "ph": 5.7,
+      "nitrogen": 135.0,
+      "phosphorus": 55.0,
+      "potassium": 198.0
+    },
+    "satellite": {
+      "ndvi": 0.522,
+      "evi": 0.418
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 3.63,
+    "weather": {
+      "temperature_avg": 33.58,
+      "temperature_min": 28.58,
+      "temperature_max": 38.58,
+      "precipitation": 785.28,
+      "humidity": 78.56,
+      "wind_speed": 4.49,
+      "solar_radiation": 22.27
+    },
+    "soil": {
+      "ph": 6.4,
+      "nitrogen": 150.0,
+      "phosphorus": 61.0,
+      "potassium": 127.0
+    },
+    "satellite": {
+      "ndvi": 0.787,
+      "evi": 0.629
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 2.5,
+    "weather": {
+      "temperature_avg": 21.17,
+      "temperature_min": 16.17,
+      "temperature_max": 26.17,
+      "precipitation": 1216.53,
+      "humidity": 43.76,
+      "wind_speed": 2.29,
+      "solar_radiation": 18.97
+    },
+    "soil": {
+      "ph": 6.4,
+      "nitrogen": 159.0,
+      "phosphorus": 38.0,
+      "potassium": 183.0
+    },
+    "satellite": {
+      "ndvi": 0.483,
+      "evi": 0.386
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 1.79,
+    "weather": {
+      "temperature_avg": 25.54,
+      "temperature_min": 20.54,
+      "temperature_max": 30.54,
+      "precipitation": 989.74,
+      "humidity": 79.87,
+      "wind_speed": 1.12,
+      "solar_radiation": 15.52
+    },
+    "soil": {
+      "ph": 6.8,
+      "nitrogen": 92.0,
+      "phosphorus": 40.0,
+      "potassium": 121.0
+    },
+    "satellite": {
+      "ndvi": 0.303,
+      "evi": 0.243
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 1.65,
+    "weather": {
+      "temperature_avg": 20.95,
+      "temperature_min": 15.95,
+      "temperature_max": 25.95,
+      "precipitation": 318.79,
+      "humidity": 76.26,
+      "wind_speed": 1.77,
+      "solar_radiation": 18.74
+    },
+    "soil": {
+      "ph": 6.5,
+      "nitrogen": 124.0,
+      "phosphorus": 32.0,
+      "potassium": 139.0
+    },
+    "satellite": {
+      "ndvi": 0.419,
+      "evi": 0.335
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 2.47,
+    "weather": {
+      "temperature_avg": 30.39,
+      "temperature_min": 25.39,
+      "temperature_max": 35.39,
+      "precipitation": 1433.54,
+      "humidity": 42.35,
+      "wind_speed": 1.74,
+      "solar_radiation": 18.51
+    },
+    "soil": {
+      "ph": 6.5,
+      "nitrogen": 95.0,
+      "phosphorus": 32.0,
+      "potassium": 175.0
+    },
+    "satellite": {
+      "ndvi": 0.431,
+      "evi": 0.345
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 3.06,
+    "weather": {
+      "temperature_avg": 23.41,
+      "temperature_min": 18.41,
+      "temperature_max": 28.41,
+      "precipitation": 607.78,
+      "humidity": 50.88,
+      "wind_speed": 2.54,
+      "solar_radiation": 23.77
+    },
+    "soil": {
+      "ph": 7.1,
+      "nitrogen": 133.0,
+      "phosphorus": 64.0,
+      "potassium": 216.0
+    },
+    "satellite": {
+      "ndvi": 0.501,
+      "evi": 0.401
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 1.67,
+    "weather": {
+      "temperature_avg": 21.97,
+      "temperature_min": 16.97,
+      "temperature_max": 26.97,
+      "precipitation": 382.56,
+      "humidity": 40.34,
+      "wind_speed": 4.42,
+      "solar_radiation": 23.26
+    },
+    "soil": {
+      "ph": 7.3,
+      "nitrogen": 95.0,
+      "phosphorus": 48.0,
+      "potassium": 122.0
+    },
+    "satellite": {
+      "ndvi": 0.385,
+      "evi": 0.308
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Rice",
+    "yield": 2.73,
+    "weather": {
+      "temperature_avg": 34.28,
+      "temperature_min": 29.28,
+      "temperature_max": 39.28,
+      "precipitation": 1423.42,
+      "humidity": 61.84,
+      "wind_speed": 3.91,
+      "solar_radiation": 20.82
+    },
+    "soil": {
+      "ph": 5.8,
+      "nitrogen": 87.0,
+      "phosphorus": 53.0,
+      "potassium": 130.0
+    },
+    "satellite": {
+      "ndvi": 0.541,
+      "evi": 0.433
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Wheat",
+    "yield": 1.54,
+    "weather": {
+      "temperature_avg": 30.0,
+      "temperature_min": 25.0,
+      "temperature_max": 35.0,
+      "precipitation": 735.04,
+      "humidity": 80.5,
+      "wind_speed": 3.59,
+      "solar_radiation": 23.06
+    },
+    "soil": {
+      "ph": 6.0,
+      "nitrogen": 147.0,
+      "phosphorus": 64.0,
+      "potassium": 170.0
+    },
+    "satellite": {
+      "ndvi": 0.332,
+      "evi": 0.266
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Punjab",
+    "crop": "Soybean",
+    "yield": 2.25,
+    "weather": {
+      "temperature_avg": 21.46,
+      "temperature_min": 16.46,
+      "temperature_max": 26.46,
+      "precipitation": 890.63,
+      "humidity": 67.29,
+      "wind_speed": 1.21,
+      "solar_radiation": 17.06
+    },
+    "soil": {
+      "ph": 7.2,
+      "nitrogen": 100.0,
+      "phosphorus": 45.0,
+      "potassium": 171.0
+    },
+    "satellite": {
+      "ndvi": 0.531,
+      "evi": 0.425
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 4.96,
+    "weather": {
+      "temperature_avg": 30.93,
+      "temperature_min": 25.93,
+      "temperature_max": 35.93,
+      "precipitation": 506.53,
+      "humidity": 54.71,
+      "wind_speed": 2.59,
+      "solar_radiation": 21.75
+    },
+    "soil": {
+      "ph": 6.8,
+      "nitrogen": 143.0,
+      "phosphorus": 32.0,
+      "potassium": 178.0
+    },
+    "satellite": {
+      "ndvi": 0.81,
+      "evi": 0.648
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 3.76,
+    "weather": {
+      "temperature_avg": 22.78,
+      "temperature_min": 17.78,
+      "temperature_max": 27.78,
+      "precipitation": 1465.98,
+      "humidity": 65.02,
+      "wind_speed": 2.29,
+      "solar_radiation": 21.9
+    },
+    "soil": {
+      "ph": 5.6,
+      "nitrogen": 100.0,
+      "phosphorus": 38.0,
+      "potassium": 168.0
+    },
+    "satellite": {
+      "ndvi": 0.764,
+      "evi": 0.611
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 2.05,
+    "weather": {
+      "temperature_avg": 20.37,
+      "temperature_min": 15.37,
+      "temperature_max": 25.37,
+      "precipitation": 1314.62,
+      "humidity": 84.68,
+      "wind_speed": 3.68,
+      "solar_radiation": 22.02
+    },
+    "soil": {
+      "ph": 6.6,
+      "nitrogen": 115.0,
+      "phosphorus": 35.0,
+      "potassium": 155.0
+    },
+    "satellite": {
+      "ndvi": 0.574,
+      "evi": 0.459
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 4.5,
+    "weather": {
+      "temperature_avg": 19.25,
+      "temperature_min": 14.25,
+      "temperature_max": 24.25,
+      "precipitation": 1054.02,
+      "humidity": 83.7,
+      "wind_speed": 1.97,
+      "solar_radiation": 19.96
+    },
+    "soil": {
+      "ph": 6.0,
+      "nitrogen": 117.0,
+      "phosphorus": 69.0,
+      "potassium": 140.0
+    },
+    "satellite": {
+      "ndvi": 0.736,
+      "evi": 0.589
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 3.7,
+    "weather": {
+      "temperature_avg": 27.28,
+      "temperature_min": 22.28,
+      "temperature_max": 32.28,
+      "precipitation": 871.53,
+      "humidity": 50.5,
+      "wind_speed": 1.63,
+      "solar_radiation": 21.1
+    },
+    "soil": {
+      "ph": 5.8,
+      "nitrogen": 88.0,
+      "phosphorus": 43.0,
+      "potassium": 174.0
+    },
+    "satellite": {
+      "ndvi": 0.649,
+      "evi": 0.519
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 1.3,
+    "weather": {
+      "temperature_avg": 31.65,
+      "temperature_min": 26.65,
+      "temperature_max": 36.65,
+      "precipitation": 941.47,
+      "humidity": 73.99,
+      "wind_speed": 3.31,
+      "solar_radiation": 21.75
+    },
+    "soil": {
+      "ph": 6.0,
+      "nitrogen": 95.0,
+      "phosphorus": 40.0,
+      "potassium": 132.0
+    },
+    "satellite": {
+      "ndvi": 0.367,
+      "evi": 0.294
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 3.94,
+    "weather": {
+      "temperature_avg": 23.03,
+      "temperature_min": 18.03,
+      "temperature_max": 28.03,
+      "precipitation": 1443.98,
+      "humidity": 82.89,
+      "wind_speed": 4.5,
+      "solar_radiation": 24.14
+    },
+    "soil": {
+      "ph": 6.3,
+      "nitrogen": 103.0,
+      "phosphorus": 65.0,
+      "potassium": 120.0
+    },
+    "satellite": {
+      "ndvi": 0.631,
+      "evi": 0.505
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 4.77,
+    "weather": {
+      "temperature_avg": 22.33,
+      "temperature_min": 17.33,
+      "temperature_max": 27.33,
+      "precipitation": 755.38,
+      "humidity": 51.2,
+      "wind_speed": 3.81,
+      "solar_radiation": 24.68
+    },
+    "soil": {
+      "ph": 6.7,
+      "nitrogen": 134.0,
+      "phosphorus": 38.0,
+      "potassium": 189.0
+    },
+    "satellite": {
+      "ndvi": 0.859,
+      "evi": 0.687
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 2.46,
+    "weather": {
+      "temperature_avg": 29.94,
+      "temperature_min": 24.94,
+      "temperature_max": 34.94,
+      "precipitation": 316.66,
+      "humidity": 78.99,
+      "wind_speed": 4.27,
+      "solar_radiation": 24.07
+    },
+    "soil": {
+      "ph": 5.7,
+      "nitrogen": 84.0,
+      "phosphorus": 38.0,
+      "potassium": 126.0
+    },
+    "satellite": {
+      "ndvi": 0.636,
+      "evi": 0.509
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 4.54,
+    "weather": {
+      "temperature_avg": 26.3,
+      "temperature_min": 21.3,
+      "temperature_max": 31.3,
+      "precipitation": 659.8,
+      "humidity": 59.46,
+      "wind_speed": 2.43,
+      "solar_radiation": 15.85
+    },
+    "soil": {
+      "ph": 6.3,
+      "nitrogen": 110.0,
+      "phosphorus": 60.0,
+      "potassium": 151.0
+    },
+    "satellite": {
+      "ndvi": 0.543,
+      "evi": 0.435
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 2.58,
+    "weather": {
+      "temperature_avg": 28.1,
+      "temperature_min": 23.1,
+      "temperature_max": 33.1,
+      "precipitation": 829.11,
+      "humidity": 49.53,
+      "wind_speed": 3.03,
+      "solar_radiation": 16.21
+    },
+    "soil": {
+      "ph": 6.8,
+      "nitrogen": 135.0,
+      "phosphorus": 30.0,
+      "potassium": 162.0
+    },
+    "satellite": {
+      "ndvi": 0.506,
+      "evi": 0.405
+    }
+  },
+  {
+    "year": 2020,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 2.63,
+    "weather": {
+      "temperature_avg": 27.25,
+      "temperature_min": 22.25,
+      "temperature_max": 32.25,
+      "precipitation": 988.93,
+      "humidity": 42.84,
+      "wind_speed": 3.6,
+      "solar_radiation": 18.08
+    },
+    "soil": {
+      "ph": 6.3,
+      "nitrogen": 128.0,
+      "phosphorus": 56.0,
+      "potassium": 188.0
+    },
+    "satellite": {
+      "ndvi": 0.524,
+      "evi": 0.419
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 2.31,
+    "weather": {
+      "temperature_avg": 18.53,
+      "temperature_min": 13.53,
+      "temperature_max": 23.53,
+      "precipitation": 908.65,
+      "humidity": 52.24,
+      "wind_speed": 1.94,
+      "solar_radiation": 19.76
+    },
+    "soil": {
+      "ph": 7.4,
+      "nitrogen": 149.0,
+      "phosphorus": 49.0,
+      "potassium": 124.0
+    },
+    "satellite": {
+      "ndvi": 0.345,
+      "evi": 0.276
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 4.72,
+    "weather": {
+      "temperature_avg": 29.56,
+      "temperature_min": 24.56,
+      "temperature_max": 34.56,
+      "precipitation": 558.0,
+      "humidity": 81.24,
+      "wind_speed": 1.12,
+      "solar_radiation": 22.72
+    },
+    "soil": {
+      "ph": 6.8,
+      "nitrogen": 91.0,
+      "phosphorus": 53.0,
+      "potassium": 151.0
+    },
+    "satellite": {
+      "ndvi": 0.81,
+      "evi": 0.648
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 2.17,
+    "weather": {
+      "temperature_avg": 24.27,
+      "temperature_min": 19.27,
+      "temperature_max": 29.27,
+      "precipitation": 1138.88,
+      "humidity": 74.36,
+      "wind_speed": 1.51,
+      "solar_radiation": 24.64
+    },
+    "soil": {
+      "ph": 6.6,
+      "nitrogen": 135.0,
+      "phosphorus": 40.0,
+      "potassium": 123.0
+    },
+    "satellite": {
+      "ndvi": 0.424,
+      "evi": 0.339
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 3.2,
+    "weather": {
+      "temperature_avg": 31.7,
+      "temperature_min": 26.7,
+      "temperature_max": 36.7,
+      "precipitation": 1377.61,
+      "humidity": 44.23,
+      "wind_speed": 3.76,
+      "solar_radiation": 23.14
+    },
+    "soil": {
+      "ph": 7.2,
+      "nitrogen": 102.0,
+      "phosphorus": 32.0,
+      "potassium": 167.0
+    },
+    "satellite": {
+      "ndvi": 0.62,
+      "evi": 0.496
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 3.33,
+    "weather": {
+      "temperature_avg": 18.95,
+      "temperature_min": 13.95,
+      "temperature_max": 23.95,
+      "precipitation": 1253.13,
+      "humidity": 68.53,
+      "wind_speed": 3.16,
+      "solar_radiation": 24.31
+    },
+    "soil": {
+      "ph": 6.2,
+      "nitrogen": 132.0,
+      "phosphorus": 42.0,
+      "potassium": 126.0
+    },
+    "satellite": {
+      "ndvi": 0.789,
+      "evi": 0.631
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 2.81,
+    "weather": {
+      "temperature_avg": 25.07,
+      "temperature_min": 20.07,
+      "temperature_max": 30.07,
+      "precipitation": 1248.99,
+      "humidity": 62.17,
+      "wind_speed": 4.54,
+      "solar_radiation": 23.3
+    },
+    "soil": {
+      "ph": 7.1,
+      "nitrogen": 118.0,
+      "phosphorus": 41.0,
+      "potassium": 122.0
+    },
+    "satellite": {
+      "ndvi": 0.654,
+      "evi": 0.523
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 2.5,
+    "weather": {
+      "temperature_avg": 31.53,
+      "temperature_min": 26.53,
+      "temperature_max": 36.53,
+      "precipitation": 1469.03,
+      "humidity": 77.03,
+      "wind_speed": 3.51,
+      "solar_radiation": 17.91
+    },
+    "soil": {
+      "ph": 7.2,
+      "nitrogen": 134.0,
+      "phosphorus": 65.0,
+      "potassium": 207.0
+    },
+    "satellite": {
+      "ndvi": 0.487,
+      "evi": 0.389
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 1.81,
+    "weather": {
+      "temperature_avg": 21.29,
+      "temperature_min": 16.29,
+      "temperature_max": 26.29,
+      "precipitation": 1328.11,
+      "humidity": 68.97,
+      "wind_speed": 1.93,
+      "solar_radiation": 24.78
+    },
+    "soil": {
+      "ph": 7.0,
+      "nitrogen": 111.0,
+      "phosphorus": 57.0,
+      "potassium": 172.0
+    },
+    "satellite": {
+      "ndvi": 0.399,
+      "evi": 0.319
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 2.12,
+    "weather": {
+      "temperature_avg": 20.48,
+      "temperature_min": 15.48,
+      "temperature_max": 25.48,
+      "precipitation": 1146.75,
+      "humidity": 68.19,
+      "wind_speed": 2.68,
+      "solar_radiation": 18.67
+    },
+    "soil": {
+      "ph": 5.8,
+      "nitrogen": 104.0,
+      "phosphorus": 37.0,
+      "potassium": 200.0
+    },
+    "satellite": {
+      "ndvi": 0.533,
+      "evi": 0.426
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 4.39,
+    "weather": {
+      "temperature_avg": 20.11,
+      "temperature_min": 15.11,
+      "temperature_max": 25.11,
+      "precipitation": 498.43,
+      "humidity": 58.64,
+      "wind_speed": 3.1,
+      "solar_radiation": 18.77
+    },
+    "soil": {
+      "ph": 6.4,
+      "nitrogen": 132.0,
+      "phosphorus": 42.0,
+      "potassium": 180.0
+    },
+    "satellite": {
+      "ndvi": 0.74,
+      "evi": 0.592
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 2.24,
+    "weather": {
+      "temperature_avg": 15.48,
+      "temperature_min": 10.48,
+      "temperature_max": 20.48,
+      "precipitation": 918.96,
+      "humidity": 54.81,
+      "wind_speed": 4.91,
+      "solar_radiation": 24.09
+    },
+    "soil": {
+      "ph": 6.2,
+      "nitrogen": 127.0,
+      "phosphorus": 35.0,
+      "potassium": 156.0
+    },
+    "satellite": {
+      "ndvi": 0.495,
+      "evi": 0.396
+    }
+  },
+  {
+    "year": 2021,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 3.16,
+    "weather": {
+      "temperature_avg": 30.31,
+      "temperature_min": 25.31,
+      "temperature_max": 35.31,
+      "precipitation": 1092.0,
+      "humidity": 40.55,
+      "wind_speed": 3.72,
+      "solar_radiation": 17.82
+    },
+    "soil": {
+      "ph": 7.5,
+      "nitrogen": 116.0,
+      "phosphorus": 35.0,
+      "potassium": 137.0
+    },
+    "satellite": {
+      "ndvi": 0.754,
+      "evi": 0.603
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 3.55,
+    "weather": {
+      "temperature_avg": 24.34,
+      "temperature_min": 19.34,
+      "temperature_max": 29.34,
+      "precipitation": 873.86,
+      "humidity": 76.5,
+      "wind_speed": 2.05,
+      "solar_radiation": 16.99
+    },
+    "soil": {
+      "ph": 6.2,
+      "nitrogen": 124.0,
+      "phosphorus": 55.0,
+      "potassium": 177.0
+    },
+    "satellite": {
+      "ndvi": 0.56,
+      "evi": 0.448
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 3.81,
+    "weather": {
+      "temperature_avg": 20.48,
+      "temperature_min": 15.48,
+      "temperature_max": 25.48,
+      "precipitation": 910.52,
+      "humidity": 64.38,
+      "wind_speed": 3.82,
+      "solar_radiation": 17.47
+    },
+    "soil": {
+      "ph": 5.5,
+      "nitrogen": 97.0,
+      "phosphorus": 51.0,
+      "potassium": 171.0
+    },
+    "satellite": {
+      "ndvi": 0.882,
+      "evi": 0.706
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 2.68,
+    "weather": {
+      "temperature_avg": 21.07,
+      "temperature_min": 16.07,
+      "temperature_max": 26.07,
+      "precipitation": 1328.08,
+      "humidity": 83.19,
+      "wind_speed": 1.23,
+      "solar_radiation": 22.31
+    },
+    "soil": {
+      "ph": 5.7,
+      "nitrogen": 91.0,
+      "phosphorus": 36.0,
+      "potassium": 184.0
+    },
+    "satellite": {
+      "ndvi": 0.751,
+      "evi": 0.601
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 4.52,
+    "weather": {
+      "temperature_avg": 18.25,
+      "temperature_min": 13.25,
+      "temperature_max": 23.25,
+      "precipitation": 806.56,
+      "humidity": 62.64,
+      "wind_speed": 1.02,
+      "solar_radiation": 18.11
+    },
+    "soil": {
+      "ph": 7.5,
+      "nitrogen": 99.0,
+      "phosphorus": 49.0,
+      "potassium": 149.0
+    },
+    "satellite": {
+      "ndvi": 0.753,
+      "evi": 0.602
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 2.37,
+    "weather": {
+      "temperature_avg": 20.68,
+      "temperature_min": 15.68,
+      "temperature_max": 25.68,
+      "precipitation": 860.89,
+      "humidity": 41.55,
+      "wind_speed": 1.75,
+      "solar_radiation": 19.14
+    },
+    "soil": {
+      "ph": 6.0,
+      "nitrogen": 151.0,
+      "phosphorus": 63.0,
+      "potassium": 147.0
+    },
+    "satellite": {
+      "ndvi": 0.426,
+      "evi": 0.341
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 1.81,
+    "weather": {
+      "temperature_avg": 24.21,
+      "temperature_min": 19.21,
+      "temperature_max": 29.21,
+      "precipitation": 515.82,
+      "humidity": 73.7,
+      "wind_speed": 3.64,
+      "solar_radiation": 23.07
+    },
+    "soil": {
+      "ph": 5.6,
+      "nitrogen": 129.0,
+      "phosphorus": 50.0,
+      "potassium": 195.0
+    },
+    "satellite": {
+      "ndvi": 0.32,
+      "evi": 0.256
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 3.53,
+    "weather": {
+      "temperature_avg": 26.17,
+      "temperature_min": 21.17,
+      "temperature_max": 31.17,
+      "precipitation": 331.42,
+      "humidity": 46.26,
+      "wind_speed": 1.9,
+      "solar_radiation": 20.95
+    },
+    "soil": {
+      "ph": 6.7,
+      "nitrogen": 96.0,
+      "phosphorus": 40.0,
+      "potassium": 182.0
+    },
+    "satellite": {
+      "ndvi": 0.572,
+      "evi": 0.458
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 2.16,
+    "weather": {
+      "temperature_avg": 23.23,
+      "temperature_min": 18.23,
+      "temperature_max": 28.23,
+      "precipitation": 1046.25,
+      "humidity": 79.57,
+      "wind_speed": 2.66,
+      "solar_radiation": 19.65
+    },
+    "soil": {
+      "ph": 6.4,
+      "nitrogen": 95.0,
+      "phosphorus": 38.0,
+      "potassium": 122.0
+    },
+    "satellite": {
+      "ndvi": 0.378,
+      "evi": 0.303
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 2.75,
+    "weather": {
+      "temperature_avg": 28.62,
+      "temperature_min": 23.62,
+      "temperature_max": 33.62,
+      "precipitation": 946.6,
+      "humidity": 55.95,
+      "wind_speed": 4.4,
+      "solar_radiation": 22.15
+    },
+    "soil": {
+      "ph": 7.3,
+      "nitrogen": 83.0,
+      "phosphorus": 35.0,
+      "potassium": 194.0
+    },
+    "satellite": {
+      "ndvi": 0.498,
+      "evi": 0.399
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 6.49,
+    "weather": {
+      "temperature_avg": 28.41,
+      "temperature_min": 23.41,
+      "temperature_max": 33.41,
+      "precipitation": 556.96,
+      "humidity": 42.93,
+      "wind_speed": 4.23,
+      "solar_radiation": 16.25
+    },
+    "soil": {
+      "ph": 5.9,
+      "nitrogen": 94.0,
+      "phosphorus": 31.0,
+      "potassium": 145.0
+    },
+    "satellite": {
+      "ndvi": 0.897,
+      "evi": 0.718
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 3.18,
+    "weather": {
+      "temperature_avg": 29.89,
+      "temperature_min": 24.89,
+      "temperature_max": 34.89,
+      "precipitation": 1366.15,
+      "humidity": 71.96,
+      "wind_speed": 4.8,
+      "solar_radiation": 17.43
+    },
+    "soil": {
+      "ph": 7.5,
+      "nitrogen": 81.0,
+      "phosphorus": 31.0,
+      "potassium": 147.0
+    },
+    "satellite": {
+      "ndvi": 0.679,
+      "evi": 0.543
+    }
+  },
+  {
+    "year": 2022,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 2.56,
+    "weather": {
+      "temperature_avg": 25.2,
+      "temperature_min": 20.2,
+      "temperature_max": 30.2,
+      "precipitation": 772.76,
+      "humidity": 83.54,
+      "wind_speed": 1.22,
+      "solar_radiation": 15.82
+    },
+    "soil": {
+      "ph": 7.4,
+      "nitrogen": 85.0,
+      "phosphorus": 31.0,
+      "potassium": 134.0
+    },
+    "satellite": {
+      "ndvi": 0.618,
+      "evi": 0.494
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 4.44,
+    "weather": {
+      "temperature_avg": 31.76,
+      "temperature_min": 26.76,
+      "temperature_max": 36.76,
+      "precipitation": 587.02,
+      "humidity": 73.34,
+      "wind_speed": 4.19,
+      "solar_radiation": 23.18
+    },
+    "soil": {
+      "ph": 5.7,
+      "nitrogen": 146.0,
+      "phosphorus": 41.0,
+      "potassium": 219.0
+    },
+    "satellite": {
+      "ndvi": 0.748,
+      "evi": 0.599
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 3.03,
+    "weather": {
+      "temperature_avg": 23.63,
+      "temperature_min": 18.63,
+      "temperature_max": 28.63,
+      "precipitation": 1493.38,
+      "humidity": 83.41,
+      "wind_speed": 1.57,
+      "solar_radiation": 17.66
+    },
+    "soil": {
+      "ph": 6.6,
+      "nitrogen": 92.0,
+      "phosphorus": 39.0,
+      "potassium": 155.0
+    },
+    "satellite": {
+      "ndvi": 0.759,
+      "evi": 0.608
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 1.09,
+    "weather": {
+      "temperature_avg": 15.18,
+      "temperature_min": 10.18,
+      "temperature_max": 20.18,
+      "precipitation": 542.26,
+      "humidity": 66.5,
+      "wind_speed": 1.81,
+      "solar_radiation": 18.13
+    },
+    "soil": {
+      "ph": 5.9,
+      "nitrogen": 99.0,
+      "phosphorus": 52.0,
+      "potassium": 184.0
+    },
+    "satellite": {
+      "ndvi": 0.306,
+      "evi": 0.245
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 1.96,
+    "weather": {
+      "temperature_avg": 25.28,
+      "temperature_min": 20.28,
+      "temperature_max": 30.28,
+      "precipitation": 759.53,
+      "humidity": 60.66,
+      "wind_speed": 3.42,
+      "solar_radiation": 23.14
+    },
+    "soil": {
+      "ph": 6.3,
+      "nitrogen": 109.0,
+      "phosphorus": 52.0,
+      "potassium": 189.0
+    },
+    "satellite": {
+      "ndvi": 0.322,
+      "evi": 0.258
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 2.22,
+    "weather": {
+      "temperature_avg": 26.37,
+      "temperature_min": 21.37,
+      "temperature_max": 31.37,
+      "precipitation": 1490.98,
+      "humidity": 48.12,
+      "wind_speed": 1.42,
+      "solar_radiation": 22.03
+    },
+    "soil": {
+      "ph": 7.3,
+      "nitrogen": 114.0,
+      "phosphorus": 49.0,
+      "potassium": 211.0
+    },
+    "satellite": {
+      "ndvi": 0.485,
+      "evi": 0.388
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 2.04,
+    "weather": {
+      "temperature_avg": 27.97,
+      "temperature_min": 22.97,
+      "temperature_max": 32.97,
+      "precipitation": 667.91,
+      "humidity": 59.83,
+      "wind_speed": 4.17,
+      "solar_radiation": 19.28
+    },
+    "soil": {
+      "ph": 6.1,
+      "nitrogen": 146.0,
+      "phosphorus": 46.0,
+      "potassium": 136.0
+    },
+    "satellite": {
+      "ndvi": 0.391,
+      "evi": 0.313
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 2.56,
+    "weather": {
+      "temperature_avg": 20.58,
+      "temperature_min": 15.58,
+      "temperature_max": 25.58,
+      "precipitation": 640.91,
+      "humidity": 79.92,
+      "wind_speed": 3.07,
+      "solar_radiation": 16.57
+    },
+    "soil": {
+      "ph": 6.7,
+      "nitrogen": 91.0,
+      "phosphorus": 58.0,
+      "potassium": 198.0
+    },
+    "satellite": {
+      "ndvi": 0.302,
+      "evi": 0.242
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 2.72,
+    "weather": {
+      "temperature_avg": 16.07,
+      "temperature_min": 11.07,
+      "temperature_max": 21.07,
+      "precipitation": 1145.44,
+      "humidity": 82.72,
+      "wind_speed": 1.64,
+      "solar_radiation": 23.29
+    },
+    "soil": {
+      "ph": 7.1,
+      "nitrogen": 152.0,
+      "phosphorus": 56.0,
+      "potassium": 194.0
+    },
+    "satellite": {
+      "ndvi": 0.572,
+      "evi": 0.457
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 1.45,
+    "weather": {
+      "temperature_avg": 16.08,
+      "temperature_min": 11.08,
+      "temperature_max": 21.08,
+      "precipitation": 396.83,
+      "humidity": 68.87,
+      "wind_speed": 1.88,
+      "solar_radiation": 16.16
+    },
+    "soil": {
+      "ph": 6.7,
+      "nitrogen": 83.0,
+      "phosphorus": 64.0,
+      "potassium": 210.0
+    },
+    "satellite": {
+      "ndvi": 0.422,
+      "evi": 0.337
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Rice",
+    "yield": 2.43,
+    "weather": {
+      "temperature_avg": 26.55,
+      "temperature_min": 21.55,
+      "temperature_max": 31.55,
+      "precipitation": 935.73,
+      "humidity": 81.74,
+      "wind_speed": 1.9,
+      "solar_radiation": 21.41
+    },
+    "soil": {
+      "ph": 6.8,
+      "nitrogen": 117.0,
+      "phosphorus": 47.0,
+      "potassium": 166.0
+    },
+    "satellite": {
+      "ndvi": 0.318,
+      "evi": 0.255
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Wheat",
+    "yield": 1.67,
+    "weather": {
+      "temperature_avg": 24.79,
+      "temperature_min": 19.79,
+      "temperature_max": 29.79,
+      "precipitation": 362.35,
+      "humidity": 62.72,
+      "wind_speed": 2.2,
+      "solar_radiation": 21.34
+    },
+    "soil": {
+      "ph": 7.3,
+      "nitrogen": 114.0,
+      "phosphorus": 68.0,
+      "potassium": 183.0
+    },
+    "satellite": {
+      "ndvi": 0.373,
+      "evi": 0.299
+    }
+  },
+  {
+    "year": 2023,
+    "state": "Maharashtra",
+    "crop": "Soybean",
+    "yield": 2.7,
+    "weather": {
+      "temperature_avg": 16.21,
+      "temperature_min": 11.21,
+      "temperature_max": 21.21,
+      "precipitation": 1322.16,
+      "humidity": 75.61,
+      "wind_speed": 4.91,
+      "solar_radiation": 16.63
+    },
+    "soil": {
+      "ph": 7.4,
+      "nitrogen": 138.0,
+      "phosphorus": 70.0,
+      "potassium": 121.0
+    },
+    "satellite": {
+      "ndvi": 0.788,
+      "evi": 0.63
+    }
+  }
+]
